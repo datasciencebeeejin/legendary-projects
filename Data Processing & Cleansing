@@ -1,5 +1,7 @@
 Data Processing and Cleansing:
 
+[(data processing and cleaning)](https://github.com/datasciencebeeejin/legendary-projects/blob/main/BMW%20(1).ipynb)
+
 Taks Given:
      The task is to analyse the given data of a used BMW luxury cars which contains different models 
    from lower end to higher end premium versions from the year of 1995 to 2020. The cars contains different 
@@ -16,8 +18,6 @@ Libraries Used:
   3.Seaborn
   4.Matplotlib
   
-  
-[CleanedData](https://github.com/datasciencebeeejin/legendary-projects/blob/main/BMW%20(1).ipynb)
       
         
   The DATA GIVEN for analysis is shown below;
